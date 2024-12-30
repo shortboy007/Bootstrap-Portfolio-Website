@@ -1,0 +1,4 @@
+<h3 class="fontcolor">Wordpress/Individual Website</h3>
+<p>
+<a href="https://shortboy007.github.io/WordpressWebsite/WebsiteContent/HTML/Index.html"><img class="smallerImage" src="https://shortboy007.github.io/Bootstrap-Portfolio-Website/WebsiteContent/GIMMProjects/GIMM300/MVPWebsiteImage.jpg" alt="Picture of a Website"></a>
+</p>
